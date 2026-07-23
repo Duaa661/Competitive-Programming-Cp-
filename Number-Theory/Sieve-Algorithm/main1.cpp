@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-vector<bool>sieve(int n){
+int sieve(int n){
     vector<bool> prime(n + 1, true);
     prime[0] =false;
     prime[1] = false;
@@ -20,14 +20,11 @@ int main()
 {
  int n;
  cin>>n;
- vector<bool> primes = sieve(n);
- for (int i = 1; i <= n;i++){
-    if(primes[i]){
-        cout << i << " "<<"is a prime number"<<endl;
-    }
-    else{
-        cout << i <<" "<< "It not prime number" << endl;
-    }
+ if(sieve(n-2)){
+     cout << "2" << n - 2 << "\n";
+ }
+ else{
+     cout << "-1\n";
  }
      return 0;
 }
