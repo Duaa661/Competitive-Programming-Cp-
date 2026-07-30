@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"c:\\Users\\Admin\\Desktop\\Cp\\Number-Theory\\LCM-and-GCD\\Lcm\\main.cpp","tests":[{"id":1785388004192,"input":"4\n1 1337\n13 69\n2 4\n88 89\n","output":"6 7\n14 21\n2 4\n-1 -1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Desktop\\Cp\\Number-Theory\\LCM-and-GCD\\Lcm\\main.cpp","group":"local","local":true}
