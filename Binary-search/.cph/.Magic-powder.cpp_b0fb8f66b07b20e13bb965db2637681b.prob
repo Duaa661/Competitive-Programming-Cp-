@@ -1,0 +1,1 @@
+{"name":"Local: Magic-powder","url":"c:\\Users\\Admin\\Desktop\\Cp\\Binary-search\\Magic-powder.cpp","tests":[{"id":1786426392731,"input":"3 1\n2 1 4\n11 3 16\n","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Desktop\\Cp\\Binary-search\\Magic-powder.cpp","group":"local","local":true}
