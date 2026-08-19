@@ -5,5 +5,7 @@ int main(){
 
     int a, b, c;
     cin >> a >> b >> c;
-    cout << (a & b & c) << "\n";
+    cout<<"And Operator :" << (a & b & c) << "\n";
+    cout <<"OR operator :"<<(a | b | c )<<"\n";
+    cout << "Xor is :" << (a ^ b ^ c) << "\n";
 }
